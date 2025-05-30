@@ -1,4 +1,4 @@
-namespace Yeni_klasör.Models;
+namespace ProjectOne.Models;
 
 public class ErrorViewModel
 {

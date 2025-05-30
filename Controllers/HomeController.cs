@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Yeni_klasör.Models;
+using ProjectOne.Models;
 
-namespace Yeni_klasör.Controllers;
+namespace ProjectOne.Controllers;
 
 public class HomeController : Controller
 {
